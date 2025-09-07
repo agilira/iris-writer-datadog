@@ -1,3 +1,9 @@
+// datadog_writer.go: External Datadog writer for Iris
+//
+// Copyright (c) 2025 AGILira
+// Series: an AGILira library
+// SPDX-License-Identifier: MPL-2.0
+
 package datadogwriter
 
 import (
