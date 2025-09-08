@@ -1,4 +1,4 @@
-# Iris Provider for Slog
+# Iris Writer for Datadog
 ### an AGILira library
 
 [![CI](https://github.com/agilira/iris-writer-datadog/actions/workflows/ci.yml/badge.svg)](https://github.com/agilira/iris-writer-datadog/actions/workflows/ci.yml)
